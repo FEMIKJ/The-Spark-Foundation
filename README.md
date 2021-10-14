@@ -5,7 +5,7 @@
 
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
-- **Internship Duration** - 1 Month ( October-2020 )
+- **Internship Duration** - 1 Month ( July-2021 )
 - **Internship Type** - Work from Home
 
 In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
@@ -83,11 +83,7 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.
 1. Dataset: Daily updated .csv file on [https://bit.ly/30d2gdi](https://bit.ly/30d2gdi)
 
-You can view all the tasks on my [youtube playlist](https://www.youtube.com/playlist?list=PLWA7Ml8Rq3KfV6QSeO_Hr9t0xbfc-Xdg2) as well.
 
- ### References -
- - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
- - [Scikit Learn](https://scikit-learn.org/stable/)
  
 
 
